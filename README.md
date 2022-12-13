@@ -22,3 +22,5 @@ Goals tend to be met more often when kept under 5000 which is not to say it wont
 This data set is limited that it does not show enough information on attendance as it is purely pledge based.
 - What are some other possible tables and/or graphs that we could create?
 We could create a line chart showing each subject and which tends to be more succesful at which goals. We can also see if certain subjects are more succesful at higher amounts than others.
+
+#[Image}(Pitcomes_vs_Goals.png)
