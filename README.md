@@ -23,4 +23,4 @@ This data set is limited that it does not show enough information on attendance 
 - What are some other possible tables and/or graphs that we could create?
 We could create a line chart showing each subject and which tends to be more succesful at which goals. We can also see if certain subjects are more succesful at higher amounts than others.
 
-#[Image](Pitcomes_vs_Goals.png)
+#[Image](https://github.com/antbahena/kickstarter-analysis/blob/main/Pitcomes_vs_Goals.png)
