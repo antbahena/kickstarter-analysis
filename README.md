@@ -24,4 +24,4 @@ This data set is limited that it does not show enough information on attendance 
 We could create a line chart showing each subject and which tends to be more succesful at which goals. We can also see if certain subjects are more succesful at higher amounts than others.
 
 ##Graph
-[!Graph](Pitcomes_vs_Goals.png)
+[!Pitcomes_vs_Goals](Pitcomes_vs_Goals.png)
